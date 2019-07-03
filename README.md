@@ -112,4 +112,18 @@ sudo nano /private/etc/apache2/httpd.conf
 
 ![](img/1.18.png)
 
-# THE END
+# Готово! поздравляю!
+
+Далее Git. Система контроля версий так же встроена в PhpStorm.
+
+Давай я тебе всё покажу.
+
+![](img/1.20.png)
+
+![](img/1.22.png)
+
+![](img/1.23.png)
+
+![](img/1.24.png)
+
+![](img/1.25.png)
