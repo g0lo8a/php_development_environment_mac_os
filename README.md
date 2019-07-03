@@ -80,7 +80,7 @@ sudo nano /private/etc/apache2/httpd.conf
 
 ![](img/1.14.png)
 
-![](img/1.14.png)
+![](img/1.15.png)
 
 ---
 
