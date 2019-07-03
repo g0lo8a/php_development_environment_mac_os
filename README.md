@@ -1,5 +1,5 @@
 # Чтобы настроить среду разработки на mac os Mojave тебе нужно выполнить пару шагов
-![Скачать и установить IDE PhpStorm](https://www.jetbrains.com/phpstorm/)
+[Скачать и установить IDE PhpStorm](https://www.jetbrains.com/phpstorm/)
 ![](img/1.1.png)
 Открыть терминал. (Mac > Aplications(Программы, если у тебя русский интерфейс) > Utilites(Утилиты)
 ![](img/1.2.png)
