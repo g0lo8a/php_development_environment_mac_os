@@ -127,3 +127,9 @@ sudo nano /private/etc/apache2/httpd.conf
 ![](img/1.24.png)
 
 ![](img/1.25.png)
+
+---
+
+[Про синхронизацию с удаленным сервером посмотри на YouTube](https://www.youtube.com/watch?v=ZKH7kIRyURY&list=PLY4rE9dstrJzAnXFt9m48Q0V5_2kVK1Qt)
+
+[И ещё видео](https://www.youtube.com/watch?v=23VkWSKZ_lM&list=LL6qZ8UhL1_nPfu5C16YXlvA&index=2&t=0s)
